@@ -1,6 +1,3 @@
-Sure! Here is the entire `README.md` content within a single code block:
-
-```markdown
 # Stock Analysis with Flask
 
 This project is a simple web application that performs stock analysis using historical data. It fetches data from Yahoo Finance, calculates technical indicators, and displays the results on an HTML page using Flask.
@@ -31,18 +28,15 @@ This project is a simple web application that performs stock analysis using hist
 
 1. **Clone the repository**
 
-   ```bash
    git clone https://github.com/yourusername/stock-analysis.git
    cd stock-analysis
-   ```
 
 2. **Create and activate a virtual environment**
 
    #### Windows
-   ```bash
+
    python -m venv venv
    venv\Scripts\activate
-   ```
 
    #### macOS/Linux
    ```bash
@@ -51,7 +45,6 @@ This project is a simple web application that performs stock analysis using hist
    ```
 
 3. **Install the dependencies**
-
    ```bash
    pip install -r requirements.txt
    ```
@@ -106,5 +99,3 @@ This project is licensed under the MIT License.
 - [yfinance](https://pypi.org/project/yfinance/)
 - [matplotlib](https://matplotlib.org/)
 ```
-
-You can now copy and paste this into your `README.md` file.
